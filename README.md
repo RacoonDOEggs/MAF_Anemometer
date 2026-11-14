@@ -1,6 +1,6 @@
 # MAF Anemometer
 
-Characterisation of a **DENSO 197400-5111** automotive mass air flow (MAF) sensor so it can be used as a low-cost anemometer (wind speed sensor).
+Characterisation of a **DENSO 197400-5111** (from a 2005-2011 Subaru Impreza) automotive mass air flow (MAF) sensor so it can be used as a low-cost anemometer (wind speed sensor).
 
 The sensor's output voltage depends on both air speed and air temperature. This repo has the test rig, the raw measurements and the script used to fit two calibration equations from them:
 
